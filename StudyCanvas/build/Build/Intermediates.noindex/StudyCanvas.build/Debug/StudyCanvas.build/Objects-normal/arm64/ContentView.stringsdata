@@ -1,0 +1,24 @@
+{
+  "source": "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Click on empty space to place",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 567
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 577
+        }
+      }
+    ]
+  },
+  "version": 1
+}

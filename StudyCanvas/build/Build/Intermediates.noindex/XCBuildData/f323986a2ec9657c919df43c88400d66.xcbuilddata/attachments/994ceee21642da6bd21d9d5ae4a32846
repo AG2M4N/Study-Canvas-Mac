@@ -1,0 +1,71 @@
+{
+  "" : {
+    "const-values" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.swiftconstvalues",
+    "dependencies" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.d",
+    "diagnostics" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.dia",
+    "emit-module-dependencies" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary-emit-module.dia",
+    "pch" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.swiftdeps"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Models/CanvasManager.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/CanvasManager.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/CanvasManager.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/CanvasManager.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/StudyCanvasApp.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvasApp.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvasApp.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvasApp.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/CanvasElementView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/CanvasElementView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/CanvasElementView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/CanvasElementView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/ConnectionsView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/ConnectionsView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/ConnectionsView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/ConnectionsView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/ContentView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/DrawingCanvas.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/DrawingCanvas.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/DrawingCanvas.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/DrawingCanvas.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/FrameElementView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/FrameElementView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/FrameElementView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/FrameElementView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/LandingView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/LandingView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/LandingView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/LandingView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/MainView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/MainView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/MainView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/MainView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/OrganizationViews.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/OrganizationViews.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/OrganizationViews.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/OrganizationViews.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/SettingsView.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/SettingsView.o"
+  },
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

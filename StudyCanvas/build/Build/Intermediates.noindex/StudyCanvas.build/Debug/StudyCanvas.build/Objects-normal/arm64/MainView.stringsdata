@@ -1,0 +1,160 @@
+{
+  "source": "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/MainView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Toggle Organization Toolbar",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Canvas",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 271
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld elements",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Canvas",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Zoom In (⌘+)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "Zoom Out (⌘-)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset Zoom (⌘0)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to delete '%@'? This action cannot be undone.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 279
+        }
+      },
+      {
+        "comment": "",
+        "key": "Drawing",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Text",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Webpage",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 306
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import PDF",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 312
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 320
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tools",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 326
+        }
+      }
+    ]
+  },
+  "version": 1
+}

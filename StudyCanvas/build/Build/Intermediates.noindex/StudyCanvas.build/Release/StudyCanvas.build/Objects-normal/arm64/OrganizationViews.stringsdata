@@ -1,0 +1,96 @@
+{
+  "source": "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/OrganizationViews.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Show Grid",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Draw Section - Click and drag to create",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Draw Connections",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show Alignment Guides",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Grid",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Section",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 122
+        }
+      },
+      {
+        "comment": "",
+        "key": "Guides",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Click and drag to create a section area",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Press ESC to cancel",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "Draw Section",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 214
+        }
+      }
+    ]
+  },
+  "version": 1
+}

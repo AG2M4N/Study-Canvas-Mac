@@ -1,0 +1,64 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "3d64f8156e28036e96759a1390100dff79840723b3713baeb5bc1d5daa4b761b"
+    }
+  ],
+  "containerPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/StudyCanvas.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx26.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Products",
+      "derivedDataPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build",
+      "indexDataStoreFolderPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

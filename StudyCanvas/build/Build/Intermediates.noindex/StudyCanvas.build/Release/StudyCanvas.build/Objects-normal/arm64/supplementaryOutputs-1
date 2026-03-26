@@ -1,0 +1,12 @@
+{
+  "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/StudyCanvasApp.swift" : {
+    "abi-baseline-json" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas.abi.json",
+    "const-values" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.swiftconstvalues",
+    "dependencies" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.d",
+    "diagnostics" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-primary.dia",
+    "objc-header" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas-Swift.h",
+    "swiftdoc" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas.swiftdoc",
+    "swiftmodule" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas.swiftmodule",
+    "swiftsourceinfo" : "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/build/Build/Intermediates.noindex/StudyCanvas.build/Release/StudyCanvas.build/Objects-normal/arm64/StudyCanvas.swiftsourceinfo"
+  }
+}

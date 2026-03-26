@@ -1,0 +1,200 @@
+{
+  "source": "/Users/akshat/Documents/MacOS Apps copy/Study/StudyCanvas/Views/CanvasElementView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Drag to resize",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap to activate",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 310
+        }
+      },
+      {
+        "comment": "",
+        "key": "\"%@...\"",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 612
+        }
+      },
+      {
+        "comment": "",
+        "key": "Page %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 597
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your notes here...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 625
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type here...",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 625
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search or enter website",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 981
+        }
+      },
+      {
+        "comment": "",
+        "key": "Context",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1638
+        }
+      },
+      {
+        "comment": "",
+        "key": "Min",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1645
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bal",
+        "location": {
+          "startingColumn": 78,
+          "startingLine": 1645
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full",
+        "location": {
+          "startingColumn": 86,
+          "startingLine": 1645
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld / %lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1615
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full PDF",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1658
+        }
+      },
+      {
+        "comment": "",
+        "key": "PAGE %lld",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1677
+        }
+      },
+      {
+        "comment": "",
+        "key": "View",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1698
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1806
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stack Notes",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1805
+        }
+      },
+      {
+        "comment": "",
+        "key": "Expand Notes",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 1805
+        }
+      },
+      {
+        "comment": "",
+        "key": "Highlight",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1829
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1859
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1922
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full PDF",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 1921
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show Highlights",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 1921
+        }
+      }
+    ]
+  },
+  "version": 1
+}
